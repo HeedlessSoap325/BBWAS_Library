@@ -4,4 +4,4 @@ To use this Library, simply download the whole project, and extract it into a fo
 
 The libraries Folder per default is located in at C:\Users\your_user_name\Documents\Arduino\libraries.
 
-then you can just include the Library in any Sketch by adding #include<BBWAS.h>
+Then you can just include the Library in any Sketch by adding #include<BBWAS.h>
