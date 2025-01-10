@@ -1,0 +1,43 @@
+#######################################
+# Syntax Coloring Map For IRremote
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+IO_RX	LITERAL1
+IO_TX	LITERAL1
+IO_IR_REC	LITERAL1
+IO_IR_SEND	LITERAL1
+IO_BUTTON_UP	LITERAL1
+IO_BUZZER	LITERAL1
+IO_LED_RGB_GREEN	LITERAL1
+IO_BUTTON_DOWN	LITERAL1
+IO_LED_GREEN	LITERAL1
+IO_LED_RGB_RED	LITERAL1
+IO_SERVO1	LITERAL1
+IO_SERVO2	LITERAL1
+IO_LED_RGB_BLUE	LITERAL1
+IO_LED_CENTER	LITERAL1
+IO_LED_YELLOW	LITERAL1
+IO_LED_RED	LITERAL1
+
+AIO_POTENTIOMETER	LITERAL1
+AIO_PHOTOREGISTOR	LITERAL1
+AIO_TEMPERATURE	LITERAL1
+AIO_BUTTON_MATRIX	LITERAL1
+AIO_SCL	LITERAL1
+AIO_SDA	LITERAL1
+
+BUTTON_LEFT_PRESSED	LITERAL1
+BUTTON_RIGHT_PRESSED	LITERAL1
+BUTTON_LEFT_AND_RIGHT_PRESSED	LITERAL1
