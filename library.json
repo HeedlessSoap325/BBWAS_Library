@@ -1,15 +1,15 @@
 {
-  "name": "BBWAS",
-  "keywords": "BBW, bbw, BBWAS, bbwas",
-  "description": "Ermöglicht eine einfache Kommunikation mit dem custom BBW Shield",
-  "version": "0.0.1",
-  "frameworks": "arduino",
-  "platforms": "atmelavr",
-  "authors" :
-  [
-     {
-       "name":"HeedlessSoap325",
-       "email":"-"
-     }
-  ]
+	"name": "BBWAS",
+	"keywords": "BBW, bbw, BBWAS, bbwas",
+	"description": "Enables a simple use of the BBWAS",
+	"version": "0.0.1",
+	"frameworks": "arduino",
+	"platforms": "atmelavr",
+	"authors": 
+	[
+		{
+			"name":"HeedlessSoap325",
+			"email":"me@heedlesssoap.dev"
+		}
+	]
 }
